@@ -93,7 +93,7 @@ export default function SignUp() {
                       <SelectContent>
                         <SelectItem value="farmer">Farmer</SelectItem>
                         <SelectItem value="buyer">Buyer</SelectItem>
-                        <SelectItem value="admin">Admin</SelectItem>
+                        {/* <SelectItem value="admin">Admin</SelectItem> */}
                       </SelectContent>
                     </Select>
                   </div>
